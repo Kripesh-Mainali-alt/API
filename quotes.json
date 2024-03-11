@@ -1,0 +1,1677 @@
+[
+    {
+      "id": 1,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 2,
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost"
+    },
+    {
+      "id": 3,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 4,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 5,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 6,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 7,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 8,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 9,
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "id": 10,
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "id": 11,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 12,
+      "quote": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 13,
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": 14,
+      "quote": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 15,
+      "quote": "To succeed in life, you need two things: ignorance and confidence.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 16,
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "id": 17,
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": 18,
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "id": 19,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 20,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 21,
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 22,
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "id": 23,
+      "quote": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 24,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 25,
+      "quote": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali"
+    },
+    {
+      "id": 26,
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 27,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 28,
+      "quote": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington"
+    },
+    {
+      "id": 29,
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 30,
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "id": 31,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 32,
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost"
+    },
+    {
+      "id": 33,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 34,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 35,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 36,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 37,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 38,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 39,
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "id": 40,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 41,
+      "quote": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 42,
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": 43,
+      "quote": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 44,
+      "quote": "To succeed in life, you need two things: ignorance and confidence.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 45,
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "id": 46,
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": 47,
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "id": 48,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 49,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 50,
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 51,
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "id": 52,
+      "quote": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 53,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 54,
+      "quote": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali"
+    },
+    {
+      "id": 55,
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 56,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 57,
+      "quote": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington"
+    },
+    {
+      "id": 58,
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 59,
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "id": 60,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 61,
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost"
+    },
+    {
+      "id": 62,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 63,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 64,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 65,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 66,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 67,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 68,
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "id": 69,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 70,
+      "quote": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 71,
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": 72,
+      "quote": "The only thing we have to fear is fear itself.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 73,
+      "quote": "To succeed in life, you need two things: ignorance and confidence.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 74,
+      "quote": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    {
+      "id": 75,
+      "quote": "Life is either a daring adventure or nothing at all.",
+      "author": "Helen Keller"
+    },
+    {
+      "id": 76,
+      "quote": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky"
+    },
+    {
+      "id": 77,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 78,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 79,
+      "quote": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 80,
+      "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+      "author": "Thomas A. Edison"
+    },
+    {
+      "id": 81,
+      "quote": "The journey of a thousand miles begins with one step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 82,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 83,
+      "quote": "Don't count the days, make the days count.",
+      "author": "Muhammad Ali"
+    },
+    {
+      "id": 84,
+      "quote": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 85,
+      "quote": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "id": 86,
+      "quote": "If you want to lift yourself up, lift up someone else.",
+      "author": "Booker T. Washington"
+    },
+    {
+      "id": 87,
+      "quote": "Success is walking from failure to failure with no loss of enthusiasm.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 88,
+      "quote": "Life is 10% what happens to us and 90% how we react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    {
+      "id": 89,
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "id": 90,
+      "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost"
+    },
+    {
+      "id": 91,
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "id": 92,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 93,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 94,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 95,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 96,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 97,
+      "quote": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb"
+    },
+    {
+      "id": 98,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 99,
+      "quote": "Life is a series of natural and spontaneous changes. Don't resist them; that only creates sorrow. Let reality be reality. Let things flow naturally forward in whatever way they like.",
+      "author": "Lao Tzu"
+    },
+    {
+      "id": 100,
+      "quote": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates"
+    },
+    {
+      "id": 101,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 102,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 103,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 104,
+      "quote": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama"
+    },
+    {
+      "id": 105,
+      "quote": "The only thing that stands between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 106,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 107,
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "id": 108,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 109,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 110,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 111,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 112,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 113,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 114,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 115,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 116,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 117,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 118,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 119,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 120,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 121,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 122,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 123,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 124,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 125,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 126,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 127,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 128,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 129,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 130,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 131,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 132,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 133,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 134,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 135,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 136,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 137,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 138,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 139,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 140,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 141,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 142,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 143,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 144,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 145,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 146,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 147,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 148,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 149,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 150,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 151,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 152,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 153,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 154,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 155,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 156,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 157,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 158,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 159,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 160,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 161,
+      "quote": "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.",
+      "author": "George Bernard Shaw"
+    },
+    {
+      "id": 162,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 163,
+      "quote": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson"
+    },
+    {
+      "id": 164,
+      "quote": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain"
+    },
+    {
+      "id": 165,
+      "quote": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius"
+    },
+    {
+      "id": 166,
+      "quote": "Life is short, and it's up to you to make it sweet.",
+      "author": "Sarah Louise Delany"
+    },
+    {
+      "id": 167,
+      "quote": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama"
+    },
+    {
+      "id": 168,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 169,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 170,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 171,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 172,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 173,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 174,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 175,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 176,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 177,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 178,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 179,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 180,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 181,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 182,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 183,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 184,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 185,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 186,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 187,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 188,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 189,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 190,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 191,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 192,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 193,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 194,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 195,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 196,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 197,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 198,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 199,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 200,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 201,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 202,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 203,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 204,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 205,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 206,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 207,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 208,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 209,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 210,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 211,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 212,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 213,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 214,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 215,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 216,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 217,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 218,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 219,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 220,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 221,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 222,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 223,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 224,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 225,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 226,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 227,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 228,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 229,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 230,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 231,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 232,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 233,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 234,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 235,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 236,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 237,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 238,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 239,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 240,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 241,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 242,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 243,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 244,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 245,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 246,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 247,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 248,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 249,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 250,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 251,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 252,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 253,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 254,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 255,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 256,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 257,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 258,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 259,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 260,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 261,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 262,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 263,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 264,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 265,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 266,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 267,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 268,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 269,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 270,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 271,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 272,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 273,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 274,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 275,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 276,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 277,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 278,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 279,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 280,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 281,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 282,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 283,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 284,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 285,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 286,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 287,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 288,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 289,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 290,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 291,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 292,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 293,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 294,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 295,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 296,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 297,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 298,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 299,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 300,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 301,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 302,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 303,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 304,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 305,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 306,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 307,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 308,
+      "quote": "The only thing standing between you and your dream is the will to try and the belief that it is actually possible.",
+      "author": "Joel Brown"
+    },
+    {
+      "id": 309,
+      "quote": "The only person you should try to be better than is the person you were yesterday.",
+      "author": "Unknown"
+    },
+    {
+      "id": 310,
+      "quote": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 311,
+      "quote": "The only way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "id": 312,
+      "quote": "The greatest wealth is to live content with little.",
+      "author": "Plato"
+    },
+    {
+      "id": 313,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 314,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 315,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 316,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 317,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 318,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 319,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 320,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    },
+    {
+      "id": 321,
+      "quote": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    {
+      "id": 322,
+      "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "id": 323,
+      "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "author": "Edmund Burke"
+    },
+    {
+      "id": 324,
+      "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+      "author": "Confucius"
+    },
+    {
+      "id": 325,
+      "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "id": 326,
+      "quote": "Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.",
+      "author": "Albert Schweitzer"
+    },
+    {
+      "id": 327,
+      "quote": "A person who never made a mistake never tried anything new.",
+      "author": "Albert Einstein"
+    },
+    {
+      "id": 328,
+      "quote": "The best revenge is massive success.",
+      "author": "Frank Sinatra"
+    },
+    {
+      "id": 329,
+      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "author": "Franklin D. Roosevelt"
+    },
+    {
+      "id": 330,
+      "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha"
+    },
+    {
+      "id": 331,
+      "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "id": 332,
+      "quote": "I would rather die of passion than of boredom.",
+      "author": "Vincent van Gogh"
+    },
+    {
+      "id": 333,
+      "quote": "Life is really simple, but we insist on making it complicated.",
+      "author": "Confucius"
+    }  
+]
+
+  
+
+
+
+
+  
+  
+
+  
